@@ -1,0 +1,17 @@
+An array is an ordered collection of values
+
+The time complexity of Array:
+
+    Insert/Remove at the end = O(1)
+
+    Insert/Remove at the beginning = O(n)
+
+    Access = O(1)
+
+    Search = O(n)
+
+    push/pop = O(1)
+
+    shift/unshift/concat/slice/splice = O(n)
+
+    forEach/map/filter/reduce = O(n)
