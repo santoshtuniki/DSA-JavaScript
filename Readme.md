@@ -26,4 +26,11 @@
     
     Picks an element as a pivot and partitions the given array around the picked pivot by placing the pivot in its correct position in the sorted array.
 
-##### 
+##### Merge Sort
+
+
+------
+
+##### Stable Sort
+
+    if two elements have the same key, their relative order will be preserved in the sorted output
